@@ -1,0 +1,2 @@
+version=4
+https://github.com/ukui/ukui-wallpapers/releases .*/ukui-wallpapers_(\d\S+)\.orig\.tar\.gz
