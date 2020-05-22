@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locatingRules>
+  <locatingRule name="wallpapers" pattern="*.xml">
+    <documentRule localName="wallpapers" target="wallpapers.its"/>
+  </locatingRule>
+</locatingRules>

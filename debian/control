@@ -1,0 +1,18 @@
+Source: ukui-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Kylin Team <team+kylin@tracker.debian.org>
+Uploaders: handsome_feng <jianfengli@ubuntukylin.com>,
+Build-Depends: debhelper-compat (= 13),
+Standards-Version: 4.5.0
+Rules-Requires-Root: no
+Vcs-Git: https://github.com/ukui/ukui-wallpapers.git
+Vcs-Browser: https://github.com/ukui/ukui-wallpapers
+
+Package: ukui-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: Wallpapers for UKUI desktop environment
+ The default UKUI wallpaper. Outstanding wallpapers selected
+ from Ubuntu Kylin 20.04 Wallpaper Contest. These wallpapers
+ are expected to show wonderful Chinese style.

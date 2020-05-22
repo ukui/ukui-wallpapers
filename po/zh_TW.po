@@ -1,0 +1,65 @@
+# Chinese translations for ukui-wallpapers package.
+# Copyright (C) 2020 THE ukui-wallpapers'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ukui-wallpapers package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ukui-wallpapers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-22 14:58+0800\n"
+"PO-Revision-Date: 2020-05-22 14:58+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ukui-wallpapers.xml.in:5
+msgid "Calla"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:13
+msgid "City"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:21
+msgid "Default"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:29
+msgid "Desert"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:37
+msgid "Firstgeneration"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:45
+msgid "Fluent-color"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:53
+msgid "Focal-ubuntukylin"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:61
+msgid "Goldfish"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:69
+msgid "Rhythm"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:77
+msgid "Rollpaper"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:85
+msgid "String"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:93
+msgid "The-mouse"
+msgstr ""
