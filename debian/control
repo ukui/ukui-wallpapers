@@ -8,6 +8,7 @@ Build-Depends: debhelper-compat (= 13),
                meson
 Standards-Version: 4.5.0
 Rules-Requires-Root: no
+Homepage: https://www.ukui.org
 Vcs-Git: https://github.com/ukui/ukui-wallpapers.git
 Vcs-Browser: https://github.com/ukui/ukui-wallpapers
 
