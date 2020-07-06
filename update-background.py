@@ -36,10 +36,10 @@ def main():
 
     output = ''
     output += PREAMBLE
-    for i in xrange(m):
+    for i in range(m):
         output += ENTRY % {'a': PATH + images[i], 'b': PATH + images[(i+1) % m]}
     output += FOOTER
-    print output,
+    print (output)
 
 if __name__ == '__main__':
     main()
