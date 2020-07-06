@@ -1,3 +1,9 @@
+ukui-wallpapers (20.04.4-1) unstable; urgency=medium
+
+  * Fix python3 compatibility for update-background.py.
+
+ -- Kevin Duan <duankaiwen@ubuntukylin.com>  Mon, 06 Jul 2020 15:10:42 +0800
+
 ukui-wallpapers (20.04.3-1) unstable; urgency=low
 
   * Initial release (Closes: #962644).
