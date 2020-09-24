@@ -63,3 +63,63 @@ msgstr ""
 #: ukui-wallpapers.xml.in:93
 msgid "The-mouse"
 msgstr ""
+
+#: ukui-wallpapers.xml.in:102
+msgid "Bluebird"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:110
+msgid "Bridgecity"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:118
+msgid "Bridgecity2"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:126
+msgid "Flamingos"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:134
+msgid "Horse"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:142
+msgid "House"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:150
+msgid "Look"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:158
+msgid "Mountain-range"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:166
+msgid "Mountain"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:174
+msgid "Mountain2"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:182
+msgid "Planet-ascending"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:190
+msgid "Sea"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:198
+msgid "Sky"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:206
+msgid "Still-life"
+msgstr ""
+
+#: ukui-wallpapess.xml.in:214
+msgid "Sunf"
+msgstr ""
