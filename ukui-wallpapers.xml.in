@@ -203,6 +203,14 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
+     <_name>Snowy-mountains</_name>
+     <filename>/usr/share/backgrounds/snowy-mountains.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
      <_name>Still-life</_name>
      <filename>/usr/share/backgrounds/still-life.jpg</filename>
      <options>zoom</options>

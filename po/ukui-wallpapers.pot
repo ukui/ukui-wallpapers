@@ -118,9 +118,13 @@ msgid "Sky"
 msgstr ""
 
 #: ukui-wallpapers.xml.in:206
+msgid "Snowy-mountains"
+msgstr ""
+
+#: ukui-wallpapers.xml.in:214
 msgid "Still-life"
 msgstr ""
 
-#: ukui-wallpapess.xml.in:214
+#: ukui-wallpapess.xml.in:222
 msgid "Sunf"
 msgstr ""
