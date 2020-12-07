@@ -14,7 +14,23 @@ Vcs-Browser: https://github.com/ukui/ukui-wallpapers
 
 Package: ukui-wallpapers
 Architecture: all
-Depends: ${misc:Depends},
+Replaces: ubuntukylin-wallpapers,
+          ubuntukylin-wallpapers-artful,
+          ubuntukylin-wallpapers-bionic,
+          ubuntukylin-wallpapers-cosmic,
+          ubuntukylin-wallpapers-disco,
+          ubuntukylin-wallpapers-eoan,
+          ubuntukylin-wallpapers-focal,
+          ubuntukylin-wallpapers-groovy,
+          ubuntukylin-wallpapers-saucy,
+          ubuntukylin-wallpapers-trusty,
+          ubuntukylin-wallpapers-utopic,
+          ubuntukylin-wallpapers-vivid,
+          ubuntukylin-wallpapers-wily,
+          ubuntukylin-wallpapers-xenial,
+          ubuntukylin-wallpapers-yakkety,
+          ubuntukylin-wallpapers-zesty
+Depends: ${misc:Depends}
 Description: Wallpapers for UKUI desktop environment
  The default UKUI wallpaper. Outstanding wallpapers selected
  from Ubuntu Kylin 20.04 Wallpaper Contest. These wallpapers
