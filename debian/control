@@ -6,7 +6,7 @@ Uploaders: handsome_feng <jianfengli@ubuntukylin.com>,
            Kevin Duan <duankaiwen@ubuntukylin.com>
 Build-Depends: debhelper-compat (= 13),
                meson
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://www.ukui.org
 Vcs-Git: https://github.com/ukui/ukui-wallpapers.git
